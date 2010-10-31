@@ -1,0 +1,20 @@
+Jim Cai, 19249491
+database.py : creates political.db 
+	     you can delete political.db and run this file to create the db from scratch
+>>python database.py
+
+query.py : prints various information about a state's senate race, writes it to a file (writing.txt) and opens that file with webbrowser
+>>python query.py california
+>>python query.py ca
+>>python query.py CA
+>>python query.py CaLiFoRnIa
+
+losingSeats.py : calculates change in Democrat seats and prints to stdout
+>>python losingSeats.py
+
+plotState.py : plots the race history between incumbent/challengers. partf.png is the plot generated
+
+>>python plotState.py alaska
+>>python plotState.py Ak
+
+update.py: function that lets you update the polls db with a filename as input (file has to be properly formatted)

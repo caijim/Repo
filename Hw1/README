@@ -1,0 +1,11 @@
+Special Instructions:
+The code is in bears.py . It should be run within this folder because it needs to read cat, female, and male in order to get the names (I thought getting names via webservice would take too long). The bulk of the code is in commented out sections in bears.py. There are three chunks near the bottom of the code, with each chunk corresponding to a question.
+Adam, Eve, and Mary have God, Yahweh, and Allah as their parent, respectively because it fits in with the framework of each bear having a parent.
+
+
+1.  An average of 122.484 bears were born in the first 100 years. At the end of the 150 years, there were an average of 1459.557 bears alive. These calculations were performed after running 1000 simulations of the model.
+
+2. Please refer to the graph "Q2 Graph" for a visual. At P(baby=male) = 21%, the average bears alive after 150 years (over 20 simulations) surpasses 1.
+
+3. Two dictionaries were kept while the simulation was running: a parent dictionary and a children dictionary. Given a node, we can recursively add parents. Then to find the parent siblings, we go down the tree and add all the direct ancestor's children. I couldn't figure out how to display a tree with networkx, so I ended up making a very ugly DiGraph, called "OOGLY.png", which is included. A circular tree is included for your amusement.
+

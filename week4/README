@@ -1,0 +1,7 @@
+Jim Cai
+19249491
+
+1. q1R.png is a plot I made with R , and q1Py.png is the plot I made with q1.py
+2. q2.png is the plot I made with q2.py
+3. I managed to make a reasonable figure with subplots (q3plot.png) but was unsuccesful with my attempts at coding the event listener (it only draws lines and deletes all of them with a 'd' press). And then it is unable to draw anymore :(
+

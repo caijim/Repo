@@ -1,0 +1,18 @@
+Jim Cai
+19249491
+
+>>python mpl_figure_editor.py
+
+It saves the images to the images/ folder in this directory
+
+I use the Yahoo Image Search API provided here: http://developer.yahoo.com/search/image/V1/imageSearch.html , and the file is YahooParser.py
+
+It breaks for some images, but these work for sure:
+
+pikachu
+google
+happy
+hello
+goodbye
+Monty Python, humour
+
