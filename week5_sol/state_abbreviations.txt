@@ -1,0 +1,36 @@
+AL,Alabama
+AK,Alaska
+AZ,Arizona
+AR,Arkansas
+CA,California
+CO,Colorado
+CT,Connecticut
+DE,Delaware
+FL,Florida
+GA,Georgia
+HI,Hawaii
+ID,Idaho
+IL,Illinois
+IN,Indiana
+IA,Iowa
+KS,Kansas
+KY,Kentucky
+LA,Louisiana
+MD,Maryland
+MO,Missouri
+NV,Nevada
+NH,New Hampshire
+NY,New York
+NC,North Carolina
+ND,North Dakota
+OH,Ohio
+OK,Oklahoma
+OR,Oregon
+PA,Pennsylvania
+SC,South Carolina
+SD,South Dakota
+UT,Utah
+VT,Vermont
+WA,Washington
+WV,West Virginia
+WI,Wisconsin
